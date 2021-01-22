@@ -1,0 +1,1 @@
+rm multiplehashing && g++ *.cpp -o output && ./output

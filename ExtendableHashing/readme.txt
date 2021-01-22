@@ -1,0 +1,1 @@
+rm ExtHashing && g++ *.cpp -o output && ./output

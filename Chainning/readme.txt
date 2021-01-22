@@ -1,0 +1,1 @@
+rm chainning && g++ *.cpp -o output && ./output

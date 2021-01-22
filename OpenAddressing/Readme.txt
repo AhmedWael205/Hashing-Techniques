@@ -1,0 +1,1 @@
+rm openaddressing && g++ *.cpp -o output && ./output
